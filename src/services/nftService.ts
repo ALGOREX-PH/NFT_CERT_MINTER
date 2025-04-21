@@ -2,7 +2,7 @@ import { ethers } from 'ethers';
 import { NFT_CONTRACT_ABI } from './contractABI';
 
 // Replace this with your deployed contract address
-const NFT_CONTRACT_ADDRESS = '0x2894978Ecfc8391e577201041a29Cbe4ebfbC09B';
+const NFT_CONTRACT_ADDRESS = '0x6207fe4fB2DE673069055aB7d6f13e18fCBc9cED';
 
 export type MintResult = {
   hash: string;
